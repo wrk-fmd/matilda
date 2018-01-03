@@ -23,3 +23,10 @@
 /app/Config/core.php
 /app/Config/database.php
 /vendors/*
+
+# JetBrains
+.idea/
+*.iml
+out/
+.idea_modules/
+atlassian-ide-plugin.xml
