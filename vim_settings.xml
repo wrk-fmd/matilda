@@ -1,0 +1,55 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/WebstormProjects/matilda/Index.html" timestamp="1515345898012">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="7" column="3" />
+        <mark key="m" line="13" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1517428952257">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1515345413905">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="4" column="11" filename="$USER_HOME$/WebstormProjects/matilda/Index.html" />
+      <jump line="9" column="0" filename="$USER_HOME$/WebstormProjects/matilda/Index.html" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>sdfasdf</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
