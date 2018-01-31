@@ -11,6 +11,9 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1517428530924">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/JavaScript Console" timestamp="1515345413905">
         <mark key="[" line="0" column="0" />
       </file>
@@ -34,7 +37,12 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
